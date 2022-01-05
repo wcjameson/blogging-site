@@ -1,0 +1,16 @@
+.Blog1 {
+  color: blueviolet;
+}
+
+.important {
+  color: red;
+  font-style: italic;
+}
+
+.AboutMe {
+  color: rgb(64, 7, 155);
+}
+
+body {
+  background-color: darkgoldenrod;
+}
